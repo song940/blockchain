@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Lsong",
+  "license": "MIT"
+}
